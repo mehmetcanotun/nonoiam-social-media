@@ -1,6 +1,6 @@
 # Nonoiam
 
-Nonoiam is a social media platform project focused on community interaction, content sharing, and modern user experience.
+Social media platform project focused on community interaction and content sharing.
 
 ## Features
 
